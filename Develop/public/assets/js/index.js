@@ -17,9 +17,12 @@ var getNotes = function() {
 
 // A function for saving a note to the db
 var saveNote = function(note) {
+  console.log(note);
   return $.ajax({
     url: "/api/notes",
-    data: note,
+    //changed to JSON.stringify to work
+    data: JSON.stringify(note),
+    contentType: "application/json",
     method: "POST"
   });
 };
