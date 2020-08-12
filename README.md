@@ -36,22 +36,13 @@ The Note Taker application was created to write and save notes. This application
 ## How To Use
 
 #### Installation
-> This application runs locally. Download or clone this repository.
+> This application runs locally. Download or clone this repository. Navigate in yourt terminal into the server folder. Enter node server.js to run connection to server.
 
 #### Usage 
-> Once you have finished answering all the question prompts a README file will be generated and titled ‘ README.md ‘
+> You can use this applicatioj to add and delete notes.
 
 
 [Back to the top](#table-of-contents)
-
----
-
-
-## Credits
-List your collaborators here. Example Below.
-
-Jane Doe
-
 
 ---
 
@@ -61,7 +52,7 @@ Enter in your GitHub and email so that other developers can’t contact you with
 ![ReadMe Image](https://github.com/osbornroxas02/readMe-maker/blob/master/seated%20copy.JPG)
 Osborn Roxas
 
-- [Github:](https://github.com/osbornroxas02/readMe-maker/tree/develop)
+- [Github:](https://github.com/osbornroxas02/note-taker-project)
 - [Email:](https://OSBORNROXAS02@GMAIL.COM)
 
 
