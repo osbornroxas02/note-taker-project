@@ -4,7 +4,7 @@ const path = require('path');
 const fs = require('fs');
 const bodyParser = require("body-parser");
 
-// const notes = require("../Develop/");
+// const notes = require("../Develop/public/");
 
 const port = 3000; 
 const app = express();
@@ -14,11 +14,11 @@ app.use(express.static('public'))
 
 // viewed at http://localhost:8080 use to connect frontend
 app.get('/', function (req, res) {
-    res.sendFile(path.join(__dirname + '../public/index.html'));// '/../public/index.html'
+    res.sendFile(path.join(__dirname + '../Develop/public/index.html'));// '/../public/index.html'
 });
 
 app.get('/notes', function (req, res) {
-    res.sendFile(path.join(__dirname + '../public/notes.html'));// '/../public/notes.html'
+    res.sendFile(path.join(__dirname + '../Develop/public/notes.html'));// '/../public/notes.html'
 });
 
 app.get('/api/notes', (req, res) => {
