@@ -22,7 +22,7 @@
 ---
 
 ## Description 
-This README App was created to help developer bring some life into their README file. A component often over looked. First impressions are everything!  In a sea of code, creating an amazing looking README will not only serve to showcase what your application can do but also hep you to stand out from the crowd.
+The Note Taker application was created to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 [![ReadMe Image](https://github.com/osbornroxas02/readMe-maker/blob/master/readmeImage.png)](https://drive.google.com/file/d/1fScjxV4DgIvHJ1y6pbdpJatMn4m2vtmu/preview)
 
