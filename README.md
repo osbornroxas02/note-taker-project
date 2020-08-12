@@ -13,10 +13,10 @@
 ---
 
 ## Description 
-The Note Taker application was created to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
-
 
 ![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/main-page.png)
+
+The Note Taker application was created to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 
 
@@ -27,12 +27,17 @@ The Note Taker application was created to write and save notes. This application
 ## How To Use
 
 #### Installation
-> This application runs locally. Download or clone this repository. Then in terminal into Navigate into the Develop folder. Enter npm start to connection to server. to exit enter control + C
+
 ![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/Screen%20Shot%202020-08-11%20at%2010.53.25%20PM.png)
 
+> This application runs locally. Download or clone this repository. Then in terminal into Navigate into the Develop folder. Enter npm start to connection to server. to exit enter control + C
+
+
 #### Usage 
-> You can use this application to add and delete notes.
+
 ![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/notes-page.png)
+
+> You can use this application to add and delete notes.
 
 
 [Back to the top](#table-of-contents)
