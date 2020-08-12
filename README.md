@@ -1,6 +1,6 @@
 # Note Taker Project
 
-[NOTE TAKER APPLICVATION](./Readme.md)
+[NOTE TAKER APPLICATION](./Readme.md)
 
   
 # **Note Taker Project**
@@ -33,7 +33,7 @@ The Note Taker application was created to write and save notes. This application
 ## How To Use
 
 #### Installation
-> This application runs locally. Download or clone this repository. Then in terminal into Navigate into the Develop folder. Run ( npm start ) to connection to server. to exit enter ( control + C )
+> This application runs locally. Download or clone this repository. Then in terminal into Navigate into the Develop folder. Enter npm start to connection to server. to exit enter control + C
 ![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/Screen%20Shot%202020-08-11%20at%2010.53.25%20PM.png)
 
 #### Usage 
