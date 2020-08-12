@@ -1,9 +1,9 @@
 # Note Taker Project
 
-[How to create a Professional README](./readme-guide.md)
+[NOTE TAKER APPLICVATION](./Readme.md)
 
   
-# **README MAKER**
+# **Note Taker Project**
 
 
 ---
@@ -11,10 +11,7 @@
 ## Table of Contents 
 
 | [Description](#description) |
-| [Usage](#usage)|
 | [Installation](#installation) |
-| [Contributing](#contributing) |
-| [Test](#test) |
 | [License](#license) |
 | [Author Info](#author-info) |
 
@@ -47,7 +44,6 @@ The Note Taker application was created to write and save notes. This application
 ---
 
 ## Author Info
-Enter in your GitHub and email so that other developers can’t contact you with questions about your application such as the example below.
 
 ![ReadMe Image](https://github.com/osbornroxas02/readMe-maker/blob/master/seated%20copy.JPG)
 Osborn Roxas
