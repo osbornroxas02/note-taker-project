@@ -22,7 +22,8 @@
 The Note Taker application was created to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 
-[![ReadMe Image](https://github.com/osbornroxas02/readMe-maker/blob/master/readmeImage.png)]
+[![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/main-page.png)]
+[![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/notes-page.png)]
 
 
 [Back to the top](#table-of-contents)
@@ -44,7 +45,7 @@ The Note Taker application was created to write and save notes. This application
 
 ## Author Info
 
-![ReadMe Image](https://github.com/osbornroxas02/readMe-maker/blob/master/seated%20copy.JPG)
+![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/seated%20.JPG)
 Osborn Roxas
 
 - [Github:](https://github.com/osbornroxas02/note-taker-project)
