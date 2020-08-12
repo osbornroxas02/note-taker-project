@@ -1,6 +1,6 @@
 # Note Taker Project
 
-[NOTE TAKER APPLICVATION](./Readme.md)
+[NOTE TAKER APPLICATION](./Readme.md)
 
   
 # **Note Taker Project**
