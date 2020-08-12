@@ -4,9 +4,9 @@ const path = require('path');
 const fs = require('fs');
 const bodyParser = require("body-parser");
 
-// const port = 3000; 
+const port = 3000; 
 //for heroku
-const PORT = process.env.PORT || 3001;
+// const PORT = process.env.PORT || 3001;
 
 const app = express();
 
@@ -59,21 +59,21 @@ app.delete('/api/notes/:id', (req, res) => {
 
 
 //starting server: last
-// app.listen(port, () => {
-//     console.log(`example app listening at http://localhost:${port}`)
-// })
+app.listen(port, () => {
+    console.log(`example app listening at http://localhost:${port}`)
+})
 
-// for heroku
-app.listen(PORT, () => {
-    console.log(`API server now on port ${PORT}!`);
-});
+//for heroku
+// app.listen(PORT, () => {
+//     console.log(`API server now on port ${PORT}!`);
+//   });
 
 
 //saving to file
 const writeFile = fileContent => {
     return new Promise((resolve, reject) => {
-        fs.writeFile('../db/db.json', fileContent, err => {
-            if (err) {
+        fs.writeFile('../db/db.json',fileContent, err => {
+            if (err){
                 reject(err);
             }
             resolve({
