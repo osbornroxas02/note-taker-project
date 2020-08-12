@@ -1,11 +1,5 @@
 # Note Taker Project
 
-[NOTE TAKER APPLICATION](./Readme.md)
-
-  
-# **Note Taker Project**
-
-
 ---
 
 ## Table of Contents 
