@@ -4,7 +4,8 @@ const path = require('path');
 const fs = require('fs');
 const bodyParser = require("body-parser");
 
-const port = 3001;
+// const port = 3001;
+const PORT = process.env.PORT || 3001;
 const app = express();
 
 app.use(bodyParser.json())
@@ -56,7 +57,7 @@ app.delete('/api/notes/:id', (req, res) => {
 
 
 //starting server: last
-app.listen(port, () => {
+app.listen(PORT, () => {
     console.log(`example app listening at http://localhost:${port}`)
 })
 
