@@ -36,7 +36,7 @@ The Note Taker application was created to write and save notes. This application
 
 #### Usage 
 
-![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/notes-page.png)
+![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/notes-page%202.png)
 
 > You can use this application to add and delete notes.
 
@@ -47,7 +47,7 @@ The Note Taker application was created to write and save notes. This application
 
 ## Author Info
 
-![ReadMe Image](/Users/osbornroxas/Desktop/classproject/note-taker-project/seated  2.JPG)
+![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/seated%20%202.JPG)
 Osborn Roxas
 
 - [Github:](https://github.com/osbornroxas02/note-taker-project)
