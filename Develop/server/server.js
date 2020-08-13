@@ -57,7 +57,7 @@ app.delete('/api/notes/:id', (req, res) => {
 
 //starting server: last
 app.listen(port, () => {
-    console.log(`example app listening at http://localhost:${port}`)
+    console.log(`Note taker app listening at http://localhost:${port}`)
 })
 
 
