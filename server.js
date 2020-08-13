@@ -1,22 +1,22 @@
 const express = require("express");
-const notes = require("../db/db.json");
+const notes = require("./db/db.json");
 const path = require('path');
 const fs = require('fs');
 const bodyParser = require("body-parser");
 
-const port = 3000;
+const port = 3001;
 const app = express();
 
 app.use(bodyParser.json())
-app.use(express.static('../public'))
+app.use(express.static('./public'))
 
 // viewed at http://localhost:8080 use to connect frontend
 app.get('/', function (req, res) {
-    res.sendFile(path.join(__dirname + '/../public/index.html'));
+    res.sendFile(path.join(__dirname + '/public/index.html'));
 });
 
 app.get('/notes', function (req, res) {
-    res.sendFile(path.join(__dirname + '/../public/notes.html'));
+    res.sendFile(path.join(__dirname + '/public/notes.html'));
 });
 
 app.get('/api/notes', (req, res) => {
@@ -57,14 +57,14 @@ app.delete('/api/notes/:id', (req, res) => {
 
 //starting server: last
 app.listen(port, () => {
-    console.log(`Note taker app listening at http://localhost:${port}`)
+    console.log(`example app listening at http://localhost:${port}`)
 })
 
 
 //saving to file
 const writeFile = fileContent => {
     return new Promise((resolve, reject) => {
-        fs.writeFile('../db/db.json',fileContent, err => {
+        fs.writeFile('./db/db.json',fileContent, err => {
             if (err){
                 reject(err);
             }
