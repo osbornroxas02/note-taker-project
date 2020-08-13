@@ -31,10 +31,8 @@ The Note Taker application was created to write and save notes. This application
 
 ![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/Screen%20Shot%202020-08-12%20at%205.48.20%20PM.png)
 
-> This application runs locally. Download or clone this repository. Then in terminal into Navigate into the server folder. 
-Enter < node server.js > to connection to server. 
-Paste < http://localhost:3000 > into yout browser. 
-To exit back into terminal enter < control + c >
+> This application runs locally. Download or clone this repository. Then in terminal navigate into the server folder. 
+Enter <node server.js> to connection to server. Paste http://localhost:3000 into your browser. To exit back into terminal enter (control + c)
 
 
 #### Usage 
