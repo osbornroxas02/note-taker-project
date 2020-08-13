@@ -46,7 +46,7 @@ The Note Taker application was created to write and save notes. This application
 
 ## Author Info
 
-![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/seated%20.JPG)
+![ReadMe Image](/Users/osbornroxas/Desktop/classproject/note-taker-project/seated  2.JPG)
 Osborn Roxas
 
 - [Github:](https://github.com/osbornroxas02/note-taker-project)
